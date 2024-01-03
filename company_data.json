@@ -1,0 +1,63 @@
+{
+    "company_score": [
+        {
+            "company_name": "CyberShield Security Solutions Inc.",
+            "Risk_averse_score": "9",
+            "Budget_focus_score": "8",
+            "Advanced_score": "10"
+        },
+        {
+            "company_name": "FrugalFinance Consultancy Ltd.",
+            "Risk_averse_score": "9",
+            "Budget_focus_score": "8",
+            "Advanced_score": "10"
+        },
+        {
+            "company_name": "GreenBuild Eco Constructions Corp.",
+            "Risk_averse_score": "10",
+            "Budget_focus_score": "8",
+            "Advanced_score": "9"
+        },
+        {
+            "company_name": "TechSaver Electronics Ltd.",
+            "Risk_averse_score": "10",
+            "Budget_focus_score": "8",
+            "Advanced_score": "9"
+        },
+        {
+            "company_name": "GreenLife Sustainable Retail Co.",
+            "Risk_averse_score": "9",
+            "Budget_focus_score": "8",
+            "Advanced_score": "10"
+        },
+        {
+            "company_name": "MedTech Research Solutions Inc.",
+            "Risk_averse_score": "8",
+            "Budget_focus_score": "7",
+            "Advanced_score": "9"
+        },
+        {
+            "company_name": "QuantumTech Innovations Ltd.",
+            "Risk_averse_score": "9",
+            "Budget_focus_score": "8",
+            "Advanced_score": "10"
+        },
+        {
+            "company_name": "SmartBuild Infrastructure Solutions Inc.",
+            "Risk_averse_score": "10",
+            "Budget_focus_score": "9",
+            "Advanced_score": "10"
+        },
+        {
+            "company_name": "DataInsight Analytics Co.",
+            "Risk_averse_score": "9",
+            "Budget_focus_score": "8",
+            "Advanced_score": "10"
+        },
+        {
+            "company_name": "FutureTech Robotics Ltd.",
+            "Risk_averse_score": "10",
+            "Budget_focus_score": "8",
+            "Advanced_score": "10"
+        }]
+    }
